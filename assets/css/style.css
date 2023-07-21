@@ -1,0 +1,38 @@
+body {
+    font-family: 'Libre Franklin', Roboto, sans-serif;
+}
+
+.menu-item {
+    text-decoration: none;
+    color: #343536;
+}
+
+.menu-item:hover {
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+
+
+.about {
+    color: #682767;
+}
+
+.services {
+    color: #ce0e2d;
+}
+
+.activities {
+    color: #ee7623;
+}
+
+.contact {
+    color: #234e9d;
+}
+
+footer {
+    height: 4rem;
+}

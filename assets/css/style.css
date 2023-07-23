@@ -1,14 +1,14 @@
 body {
     font-family: 'Libre Franklin', Roboto, sans-serif;
+    font-weight: 300;
 }
 
-.menu-item {
-    text-decoration: none;
-    color: #343536;
+.nav-link:hover {
+    font-weight: 500;
 }
 
-.menu-item:hover {
-    font-weight: bold;
+.nav-link {
+    font-size: 1.2rem;
 }
 
 h1 {
@@ -16,19 +16,19 @@ h1 {
 }
 
 
-.about {
+.about, .about-link:hover {
     color: #682767;
 }
 
-.services {
+.services, .services-link:hover {
     color: #ce0e2d;
 }
 
-.activities {
+.activities, .activities-link:hover {
     color: #ee7623;
 }
 
-.contact {
+.contact, .contact-link:hover {
     color: #234e9d;
 }
 
